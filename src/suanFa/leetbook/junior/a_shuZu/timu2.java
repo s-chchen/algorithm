@@ -1,4 +1,4 @@
-package leetbook.junior;
+package suanFa.leetbook.junior.a_shuZu;
 
 public class timu2 {
 

@@ -1,4 +1,4 @@
-package leetbook.junior;
+package suanFa.leetbook.junior.a_shuZu;
 
 /*旋转数组*/
 public class timu3 {

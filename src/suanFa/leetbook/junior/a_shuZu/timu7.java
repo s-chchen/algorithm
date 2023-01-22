@@ -1,4 +1,4 @@
-package leetbook.junior;
+package suanFa.leetbook.junior.a_shuZu;
 
 import java.util.ArrayList;
 import java.util.Arrays;
