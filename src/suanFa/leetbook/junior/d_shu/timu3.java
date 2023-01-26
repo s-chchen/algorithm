@@ -1,4 +1,4 @@
-package suanFa.leetbook.junior.shu;
+package suanFa.leetbook.junior.d_shu;
 
 import java.util.LinkedList;
 import java.util.Queue;

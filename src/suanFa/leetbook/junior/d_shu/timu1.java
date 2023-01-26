@@ -1,4 +1,4 @@
-package suanFa.leetbook.junior.shu;
+package suanFa.leetbook.junior.d_shu;
 /*
 * 二叉树的最大深度
 * 示例：给定二叉树 [3,9,20,null,null,15,7]

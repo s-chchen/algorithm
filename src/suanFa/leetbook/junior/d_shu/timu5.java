@@ -1,4 +1,4 @@
-package suanFa.leetbook.junior.shu;
+package suanFa.leetbook.junior.d_shu;
 /*
 * 将有序数组转换为二叉搜索树
 * */

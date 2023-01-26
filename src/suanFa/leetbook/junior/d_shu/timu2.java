@@ -1,6 +1,4 @@
-package suanFa.leetbook.junior.shu;
-
-import java.util.Queue;
+package suanFa.leetbook.junior.d_shu;
 
 /*
 * 验证二叉搜索树
