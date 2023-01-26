@@ -1,4 +1,4 @@
-package suanFa.leetbook.junior.dongTaiGuiHua;
+package suanFa.leetbook.junior.f_dongTaiGuiHua;
 /*
 * 爬楼梯
 * 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
